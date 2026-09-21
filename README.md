@@ -40,10 +40,10 @@ and statistical modeling.
 
 ```text
 CRM_Sales_Analysis/
-├── [CRM_Sales_Report.ipynb](https://github.com/user-attachments/files/32473185/CRM_Sales_Report.ipynb)                # Final analysis report
-├── [CRM_Sales_Analysis_Python.ipynb](https://github.com/user-attachments/files/32473193/CRM_Sales_Analysis_Python.ipynb)       # Python analysis
+├── CRM_Sales_Report.ipynb              # Final analysis report
+├── CRM_Sales_Analysis_Python.ipynb     # Python analysis
 └── sql/
-    └── [CRM_Sales_Analysis_SQL.sql](https://github.com/user-attachments/files/32473221/CRM_Sales_Analysis_SQL.sql)        # SQL analysis
+    └── CRM_Sales_Analysis_SQL.sql      # SQL analysis
 ```
 
 ## Full Analysis
