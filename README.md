@@ -25,7 +25,7 @@ and statistical modeling.
 
 The analysis uses the CRM Sales Opportunities dataset.
 
-The dataset is not included in this repository. To reproduce the analysis, download the original dataset from [dataset source](https://www.kaggle.com/datasets/nilkamalsaha/crm-sales-opportunities-on-google-sheets) and place the CSV files in a folder named Sales Dataset/ in the project root.
+The dataset is not included in this repository. To reproduce the analysis, download the original dataset from [Kaggle](https://www.kaggle.com/datasets/nilkamalsaha/crm-sales-opportunities-on-google-sheets) and place the CSV files in a folder named Sales Dataset/ in the project root.
 
 The expected structure is:
 
