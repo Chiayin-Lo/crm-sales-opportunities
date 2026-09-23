@@ -21,6 +21,27 @@ and statistical modeling.
 - Pandas
 - Statsmodels
 
+## Data
+
+The analysis uses the CRM Sales Opportunities dataset.
+
+The dataset is not included in this repository. To reproduce the analysis, download the original dataset from [dataset source] and place the CSV files in a folder named Sales Dataset/ in the project root.
+
+The expected structure is:
+
+```text
+CRM_Sales_Analysis/
+├── Sales Dataset/
+│   ├── accounts.csv
+│   ├── products.csv
+│   ├── sales_pipeline.csv
+│   └── sales_teams.csv
+├── CRM_Sales_Report.ipynb
+├── CRM_Sales_Analysis_Python.ipynb
+└── sql/
+    └── CRM_Sales_Analysis_SQL.sql
+```
+
 ## Analysis Approach
 
 1. Data preparation
@@ -39,7 +60,9 @@ and statistical modeling.
 ## Project Structure
 
 ```text
+Project Structure
 CRM_Sales_Analysis/
+├── Sales Dataset/                      # Downloaded separately
 ├── CRM_Sales_Report.ipynb              # Final analysis report
 ├── CRM_Sales_Analysis_Python.ipynb     # Python analysis
 └── sql/
